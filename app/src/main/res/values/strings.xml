@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Parcial1_recuperacion</string>
+    <string-array name="spnOpciones">
+        <item>manzana</item>
+        <item>metro cuadrado</item>
+        <item>pie cuadrado</item>
+        <item>vara cuadrada</item>
+        <item>yarda cuadrada</item>
+        <item>tareas</item>
+        <item>hectarea</item>
+    </string-array>
 </resources>
